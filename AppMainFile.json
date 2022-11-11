@@ -10,6 +10,8 @@
     
       "AppVersion_Update" : "1.0",  
     
+      "RecycleViewPosition": "2",
+    
       "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
           
@@ -39,8 +41,8 @@
       
       "ShowFirstDirect": "gone",
       "ShowFirstUrlDirect": "https://u.theaddnews.com/zflaw/",
-      
-      "AppBanner": 
+   
+    "AppBanner": 
       [
         {
           "BannerURL":"https://static.gamezop.com/creatives/509f8e4f-936d-4e69-b242-06ef24e32570.png",

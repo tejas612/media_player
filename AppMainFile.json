@@ -1,9 +1,9 @@
 {
   "data" :  {
-      "AD_Priority_Google_Applovin" : "applovin",
+      "AD_Priority_Google_Applovin" : "google",
       "AppVersion_Update" : "5.0",  
     
-      "Ads_On_Off" : "off",
+      "Ads_On_Off" : "on",
     
       "EveryTimeAdsFail_URL_OnOff" : "on",
             

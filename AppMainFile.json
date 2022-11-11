@@ -12,6 +12,8 @@
       "DoubleAds_OnOff" : "on",  
       "BackButtonAds_OnOff" : "on",  
     
+      "RecycleViewPosition" : "2",  
+    
       "Video30_and_InterAd" : "interad",  
           
       "InterAd_Interval" : "2000",  
